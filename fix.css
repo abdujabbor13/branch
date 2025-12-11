@@ -47,3 +47,13 @@ button {
 button:hover{
   border-bottom: 2px solid #fff;
 }
+
+p{
+  width: 1000px;
+  text-align: left;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+}
